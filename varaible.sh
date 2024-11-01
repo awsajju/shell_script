@@ -1,5 +1,5 @@
 #!/bin/bash
 
-echo "Enter your name :" name
+echo "Enter your name :"
 
 read $name
