@@ -6,5 +6,5 @@ read -s $Username
 
 echo "Enter password :"
 
-read -s $ password
+read -s $password
 
