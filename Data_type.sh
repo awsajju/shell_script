@@ -1,11 +1,11 @@
 #!/bin/bash
 
-Number= $1
+Number1= $1
 
-Number= $2
+Number2= $2
 
 
-sum=(($Number+$Number))
+echo "sum=(($Number1+$Number2))"
 
 echo $sum
 
